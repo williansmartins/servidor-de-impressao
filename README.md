@@ -5,6 +5,9 @@ Sobre o exercício, fiz algumas observações abaixo, mas para não emperrar a e
 
 Link para download: [link]
 
+Observações:
+---
+
   - Criei a Interface para a fila e uma implementação da mesma no formato circular, juntamente com suas Exceções.
   - Criei 2 produtores(no exercício não pedia, mas vi que na saída do console possuíam 2) adicionando Jobs na fila e 1 consumidor removendo itens da fila enquanto ela não estivesse vazia.
   - Criei uma classe para fazer um teste unitário com o Junit, coisa simples só pra me ajudar no desenvolvimento e nas tarefas repetitivas.
